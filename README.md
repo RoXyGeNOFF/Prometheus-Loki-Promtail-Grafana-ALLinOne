@@ -12,8 +12,8 @@
 ## Быстрый старт
 
 ```bash
-git clone https://example.com/grafana-deploy-improved.git
-cd grafana-deploy-improved
+git clone https://example.com/grafana-deploy-improved](https://github.com/RoXyGeNOFF/Prometheus-Loki-Promtail-Grafana-ALLinOne.git
+cd PrometheusLokiPromtailGrafanaALLinOne
 chmod +x install.sh
 ./install.sh
 ```
